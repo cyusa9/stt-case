@@ -69,7 +69,7 @@ The system is implemented in `EmployeeManagementSystem.java` with the following 
 stt/
 ├── EmployeeManagementSystem.java       # Production system under test (SUT)
 ├── EmployeeManagementSystemTest.java   # Zero-dependency test harness (27 test cases)
-├── Test_Case_Report updated (2).docx   # Formal QA test report
+├── Test_Case_Report (2).docx           # Formal QA test report
 ├── README.md                           # Comprehensive documentation
 └── .gitignore                          # Git ignore configuration
 ```
